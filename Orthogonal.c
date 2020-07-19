@@ -1,3 +1,4 @@
+//Program to check a matrix is orthogonal matrix or not
 #include<stdio.h>
 #include<malloc.h>
 #include<math.h>
