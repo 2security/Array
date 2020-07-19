@@ -1,3 +1,4 @@
+//Program to find the maximum and minimum element of the array
 #include<stdio.h>
 #include<malloc.h>
 void displayarr(int arr[],int len);
