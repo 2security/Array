@@ -1,3 +1,4 @@
+//Program to insert an item in a specific position into the array
 #include<stdio.h>
 #include<malloc.h>
 void displayarr(int arr[],int len);
