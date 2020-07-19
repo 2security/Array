@@ -1,3 +1,4 @@
+//Program to reverse the array
 #include<stdio.h>
 #include<malloc.h>
 void displayarr(int arr[],int len);
