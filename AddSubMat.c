@@ -1,3 +1,4 @@
+//Program to calculate Addition and Substruction of two matrix
 #include<stdio.h>
 #include<malloc.h>
 #include<math.h>
