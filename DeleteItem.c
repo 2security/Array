@@ -1,3 +1,4 @@
+//Program to delete an item from the array
 #include<stdio.h>
 #include<malloc.h>
 void displayarr(int arr[],int len);
