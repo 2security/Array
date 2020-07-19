@@ -1,3 +1,4 @@
+//Program to add the elements of the array
 #include<stdio.h>
 #include<malloc.h>
 void displayarr(int arr[],int len);
