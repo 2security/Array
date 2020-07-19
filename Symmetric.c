@@ -1,3 +1,4 @@
+//Program to check a matrix is symmetric matrix or not 
 #include<stdio.h>
 #include<malloc.h>
 int **Transpose(int **mat1,int **mat2,int r,int c);
