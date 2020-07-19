@@ -1,3 +1,4 @@
+//Program to find the transpose of the matrix
 #include<stdio.h>
 #include<malloc.h>
 #include<math.h>
