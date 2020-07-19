@@ -1,3 +1,4 @@
+//Program to remove the duplicate elements from the array
 #include<stdio.h>
 #include<malloc.h>
 void displayarr(int arr[],int len);
