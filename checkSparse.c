@@ -1,3 +1,4 @@
+//Program to check a matrix sparse or not
 #include<stdio.h>
 #include<malloc.h>
 void displayMat(int **mat,int r,int c);
