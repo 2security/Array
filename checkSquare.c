@@ -1,3 +1,4 @@
+//Program to check a matrix is square or not
 #include<stdio.h>
 #include<malloc.h>
 int main()
